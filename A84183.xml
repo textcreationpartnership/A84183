@@ -1,0 +1,176 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Exact account of the most remarkable fires which have happened in London and other places in England, from William the Conqueror to the reign of the best of kings, Charles the Second</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1667</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84183</idno>
+            <idno type="STC">Wing E3575A</idno>
+            <idno type="STC">ESTC R42309</idno>
+            <idno type="EEBO-CITATION">36272880</idno>
+            <idno type="OCLC">ocm 36272880</idno>
+            <idno type="VID">150042</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84183)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150042)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2226:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Exact account of the most remarkable fires which have happened in London and other places in England, from William the Conqueror to the reign of the best of kings, Charles the Second</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Head, at the Signe of the Bible in Little-Brittain,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1667.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Licensed the 2d. of February, 1667. Roger L'Estrange."</note>
+                  <note>Reproduction of original in the Guildhall Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fires --  England --  Early works to 1800.</term>
+               <term>London (England) --  Fire, 1666.</term>
+               <term>Great Britain --  History.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:150042:1"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:150042:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:150042:3"/>
+            <head>An Exact Account of the moſt Remarkable Fires which have happened in LONDON And other Places in <hi>England,</hi> from <hi>William</hi> the Conqueror, to the Reign of the Beſt of KINGS, <hi>CHARLES</hi> the Second.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Ive Hundred and Eighty Years ſince, in the Year of our Lord, One Thouſand Eighty Five, and the Twentieth of <hi>William</hi> the Firſt, called the Conqueror, there hapned a dreadfull, and very Great Fire in <hi>LONDON,</hi> which devoured not onely Houſes, but Churches, all the way from <hi>Ludgate</hi> to <hi>Aldgate,</hi> not ſparing that Matchleſs Fabrick, the Church of St. <hi>Paul.</hi> In the ſame Year enſued a great Famine, with a Lamentable Mortality of Men and Cattel.</p>
+            <p>In the Year One Thouſand Ninety Eight, Five Hundred Sixty Seven Years ſince, and in the Eleventh Year of <hi>William</hi> the Second, called <hi>Rufus,</hi> for the ſpace of fifteen dayes, great Flames of Fire were in ſeveral Places, and at ſundry times ſeen, to the great Amazement of the Spectators.</p>
+            <p>In the Time of <hi>Henry</hi> the Firſt, which was in the Year One Thouſand One Hundred, Five Hundred Sixty Two Years agoe, the Earth on a ſuddain diſcharged it ſelf of horrid Flames, which by the Art of Man, could not be ſuppreſſed. Soon after <hi>Chicheſter,</hi> with the Principal Monaſtry was Burnt to the Ground. Immediately after that, from <hi>Weſt-Cheap</hi> to <hi>Aldgate</hi> in <hi>London,</hi> a Long Tract of Buildings was conſumed by the mercileſſe Element of Fire; and leaſt it ſhould be charged with any partiality, <hi>Worceſter, Rocheſter, Win<g ref="char:EOLhyphen"/>cheſter, Gloceſter, Bathe, Lincoln, Peter-borough,</hi> with other Places, did ſhare in the like Calamity of their Metropolis.</p>
+            <p>In the Seventh Year of King <hi>Henry</hi> the Second, One Thouſand One Hun<g ref="char:EOLhyphen"/>dred Sixty One, about Four Hundred Seventy Eight Years ſince, at <hi>Oſythes,</hi> in <hi>Eſſex,</hi> was ſeen a very Great Fiery Dragon, which in its motion Burned ſeverall Houſes, if we dare credit Sir <hi>Richard Baker</hi> in his Chronicle. In the ſame Year, almoſt the whole City of <hi>Canterbury</hi> was Burnt down. On the Twenty Fourth of his Reign, the City of <hi>YORK</hi> was Burnt. In his Eight and Twentieth Year, <hi>Barnwell</hi> near <hi>Cambridge,</hi> with the Priory was Burnt: not long after <hi>Chicheſter</hi> was Totally conſumed by Fire. In the ſame Kings Reign, in the Year One Thouſand One Hundred Eighty Eight, the Town of <hi>Beverly</hi> was Burnt, with St. <hi>John</hi>'s Church.</p>
+            <p>One Thouſand One Hundred Eighty Nine, in the Time of <hi>Richard</hi> the Firſt, Four Hundred Sixty Eight Years ſince, <hi>Mawling</hi> in <hi>Kent,</hi> with the Nun<g ref="char:EOLhyphen"/>nery, was deſtroyed by Fire.</p>
+            <p>In the Reign of <hi>Henry</hi> the Third, One Thouſand Two Hundred and Six<g ref="char:EOLhyphen"/>teen, Three Hundred Ninety Five Years ſince, a great part of the City of <hi>Can<g ref="char:EOLhyphen"/>terbury,</hi> with the Church of St. <hi>Mildred</hi> was Burnt. Alſo the Town of <hi>New-Caſtle</hi> upon <hi>Tine</hi> was Burnt, with the Bridge.</p>
+            <p>In the One and Twentieth of <hi>Edward</hi> the Firſt, and in the Year, One Thou<g ref="char:EOLhyphen"/>ſand Two Hundred Ninety and Three, Three Hundred and Sixty Years ſinc<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a Great Part of the Town of <hi>Cambridge,</hi> with the Church of our Lady was Buried in Aſhes by an irreſiſtable Fire. In his Twenty Seventh Year, his Pa<g ref="char:EOLhyphen"/>lace at <hi>Weſtminſter,</hi> with the Monaſtry adjoyning, were conſumed by Fire.</p>
+            <p>In the Seventh Year of <hi>Henry</hi> the Fourth, One Thouſand Four Hundred and Six, Two Hundred Fifty Four Years ſince, <hi>Reyſton</hi> in <hi>Hartford-ſhire</hi> was To<g ref="char:EOLhyphen"/>tally Burnt.</p>
+            <p>In the Fifth Year of <hi>Henry</hi> the Fifth, One Thouſand Four Hundred and Eighteen, Two Hundred Forty Five Years ſince, a great part of the City of <hi>Norwich</hi> was Burnt.</p>
+            <p>In the Third Year of <hi>Edward</hi> the Fourth, One Thouſand Four Hundred Fifty Three, One Hundred Eighty Four Years ſince, <hi>York</hi> Minſter, and the Steeple of <hi>Chriſts Church</hi> in <hi>Norwich</hi> was Burnt.</p>
+            <p>In the Year, One Thouſand Four Hundred Eighty Five, a great Fire hapned in <hi>Bread-Street London,</hi> which conſumed the Street, with three or four more adjoyning.</p>
+            <p>In the Fifteenth of <hi>Henry</hi> the Seventh, in the Year One Thouſand Five Hundred, One Hundred and Fifty Nine Years ſince, the Town of <hi>Babram</hi> in <hi>Norfolk</hi> was utterly conſumed by Fire.</p>
+            <p>One Thouſand Five Hundred Forty Eight, in the Second Year of <hi>Edward</hi> the Sixth, about One Hundred and Thirteen Years ſince, St. <hi>Ann</hi>'s Chur<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> within <hi>Alderſgate</hi> was Burnt.</p>
+            <p>One Thouſand Five Hundred Sixty One, in the Third Year of the Reign of Queen <hi>Elizabeth,</hi> Sixty Five Years ſince, the Spire of the Cathedral Church of St. <hi>Paul,</hi> being ſive Hundred and Twenty foot from rhe Ground, and Two Hundred and Sixty from the ſquare Steeple where it was placed, and was made of Wooden Materials, but covered with Lead; was by Lightning Burnt down, together with the Roofs of that Large Church, within the ſpace of five hours, which Roofs were ſoon after Re-edified, but not the Spire.</p>
+            <p>In the Sixth of King <hi>James,</hi> being in the Year One Thouſand Six Hundred and Eight, a Malt-Houſe in the Town of St. <hi>Edmonds-Bury,</hi> being by caſu<g ref="char:EOLhyphen"/>alty ſet on fire, continued burning till it had conſumed One Hundred and Sixty Houſes.</p>
+            <p>In the Year One Thouſand Six Hundred and Thirteen, on the Seventh of <hi>Auguſt,</hi> the Town of <hi>Dorcheſter,</hi> was totally Ruined by fire; beginning in the Houſe of a Tallow Chandler, deſtroying all the Houſes, except a few near the Church, and all their Wares and Goods, to the value of Two Hundred Thou<g ref="char:EOLhyphen"/>ſand Pounds, yet not a Man or Woman Periſhed.</p>
+            <p>In the ſame Year, Two Play-Houſes, that of the Globe on the <hi>Bank-ſide,</hi> and the Fortune Play-Houſe near <hi>Golden-Lane,</hi> were both burnt to the ground; The firſt, by diſcharging a piece of Ordnance, and the latter, by a Candle.</p>
+            <p>In the Year One Thouſand Six Hundred and Fourteen, the Town of <hi>Strat<g ref="char:EOLhyphen"/>ford</hi> upon <hi>Avon</hi> was burned.</p>
+            <p>In One Thouſand Six Hundred Thirty and Three, and in the Eighth Year of King <hi>Charles</hi> the Firſt, that bleſſed Martyr; A Fire brake out on <hi>London</hi> Bridge, by which moſt of the Houſes that were built upon it (which when they were all ſtanding, made up a very Beautifull Street) were burnt down to the ground.</p>
+            <p>I ſhall omit to ſpeak of Fires which have hapned ſince; as the blowing up f ſeveral Houſes, and Perſons by Gun-power in <hi>Tower-Street;</hi> The firing of everal Houſes in <hi>Thread-needle-Street, Fleet-Street,</hi> and <hi>Fleet-Bridge:</hi> But if my Eyes (delug'd in tears, to think on this laſt Unparalel'd Conflagration) will aſſiſt me, I will give a brief Account thereof.</p>
+            <p>On Sunday Morning between one and two of the Clock, it being the Second of <hi>September,</hi> One Thouſand Six Hundred Sixty Six, this much talkt of, and Prodigious Year, a Fire brake out in a Bakers Houſe in <hi>Pudding-Lane,</hi> which had by Twelve at Noon, ſo ſtrengthned its Force, by too too many unhappy advantages; As drought of the Seaſon, rotten Houſes, Pitch, Tar, Oyle, with other Combuſtible Matter, that all Endeavours prov'd ineffectual in the Ob<g ref="char:EOLhyphen"/>ſtruction of its irreſiſtable Power. It ran with that impetuoſity (dilating it ſelf) that ſoon <hi>New-Fiſh-Street,</hi> the <hi>Bridge,</hi> and a great part of <hi>Thames Street</hi> were all in flames; The People all amazed, and deſpairing, to put a ſtop to its fury, gave it leave to act its Tyranny, which it did almoſt Univerſally through the Whole City. This Sacrilegious fire, as it had no mercy on Private Houſes, ſo it took no pity on Churches, Hoſpitalls, Halls, the Exchange; nay St. <hi>Pauls</hi> muſt once more be made a burning Sacrifice to its fury. But I muſt deſiſt, ſince this ſires true Deſcription, will take up more room, then the narrow limits of a Sheet, nay more.</p>
+            <epigraph>
+               <q>
+                  <l>This is the Reaſon, why I am ſo Brief,</l>
+                  <l>I am unwilling to renew your Grief.</l>
+               </q>
+            </epigraph>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>Licenſed the 2<hi>d.</hi> of <hi>February,</hi> 1667.</p>
+            <closer>
+               <signed>Roger L' Eſtrange.</signed>
+            </closer>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Richard Head,</hi> at the Signe of the <hi>Bible</hi> in <hi>Heart</hi> in <hi>Little-Brittain,</hi> 1667.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
